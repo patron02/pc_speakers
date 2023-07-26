@@ -31,15 +31,15 @@ The 330 Ohm resistor provides a DC current path for Q3 and raises the emitter vo
 
 
 
-**DC Analysis:**
+## DC Analysis:
 
 
 
-**AC Analysis:**
+## AC Analysis:
 
 
 
-**Configuration with Diodes**
+## Configuration with Diodes
 The configuration above with diodes has the output arranged as a push pull amplifier. It may provide a litter higher power output and run more efficiently than the coloured circuit. Power is limited by the fact that 2N3904 and 2N3906 transistors are small-signals transistors with very limited current carying capability. The coloured circuit could deliver at maz 10 mW to the speaker, while the push pull amplifier configuration could maybe get up to 100 mW.
 
 Calculations: 
@@ -48,15 +48,15 @@ Info on push pull amplifiers:
 
 
 
-**EasyEDA Build and Analysis**
+## EasyEDA Build and Analysis
 
 
 
-**Physical Circuit Design**
+## Physical Circuit Design
 
 
 
-**Casing Design**
+## Casing Design
 3D model stl link: 
 CNC wood cuttin
 Filter
