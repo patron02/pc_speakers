@@ -13,7 +13,7 @@ Info on coupling capacitors: https://www.icrfq.net/coupling-capacitor/
 
 
 
-**How the coloured circuit above works:**
+## How the coloured circuit above works:
 
 Q1 provides an initial signal gain as a common emitter amplifier. R1, R2, R3, and R4 forma 4-resistor bias network to ensure Q1 is in the linear amplification region. C2 raises the AC gain of that stage by providing a low impedence path to ground for AC signals. 
 
