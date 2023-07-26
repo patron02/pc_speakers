@@ -9,7 +9,7 @@ I started off with two circuits that I found online:
 
 The impedence of my speaker will not matter much because it is in series with a 220 uF coupling capacitor. At 440 Hz (which is roughly middle C) the capacitor will have an impedence of 1.6 Ohms. If the speaker has an impedence of 4 Ohms it will still represent about 70% of the load represented to the output transistor. 
 
-Info on coupling capacitors: https://www.icrfq.net/coupling-capacitor/
+> Info on coupling capacitors: https://www.icrfq.net/coupling-capacitor/
 
 
 
