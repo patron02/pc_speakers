@@ -17,8 +17,7 @@ Info on coupling capacitors: https://www.icrfq.net/coupling-capacitor/
 
 Q1 provides an initial signal gain as a common emitter amplifier. R1, R2, R3, and R4 forma 4-resistor bias network to ensure Q1 is in the linear amplification region. C2 raises the AC gain of that stage by providing a low impedence path to ground for AC signals. 
 
-Info on 4-resistor bias networks: https://www.youtube.com/watch?v=Ua7cZ63PlOk
-
+Info on 4-resistor bias networks: https://www.youtube.com/watch?v=Ua7cZ63PlOk <br>
 Info on transistor biasing configurations: https://www.electronics-tutorials.ws/amplifier/transistor-biasing.html
 
 Q2 and Q3 are arranged as a darlington pair, performing as a single high beta transistor. R5, C3, and SP1 make the last stage an emitter follower configuration (also called common collector configuration). 
