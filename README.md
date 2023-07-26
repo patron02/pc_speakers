@@ -17,13 +17,13 @@ The impedence of my speaker will not matter much because it is in series with a 
 
 Q1 provides an initial signal gain as a common emitter amplifier. R1, R2, R3, and R4 forma 4-resistor bias network to ensure Q1 is in the linear amplification region. C2 raises the AC gain of that stage by providing a low impedence path to ground for AC signals. 
 
-Info on 4-resistor bias networks: https://www.youtube.com/watch?v=Ua7cZ63PlOk <br>
-Info on transistor biasing configurations: https://www.electronics-tutorials.ws/amplifier/transistor-biasing.html
+> Info on 4-resistor bias networks: https://www.youtube.com/watch?v=Ua7cZ63PlOk <br>
+> Info on transistor biasing configurations: https://www.electronics-tutorials.ws/amplifier/transistor-biasing.html
 
 Q2 and Q3 are arranged as a darlington pair, performing as a single high beta transistor. R5, C3, and SP1 make the last stage an emitter follower configuration (also called common collector configuration). 
 
-Info on darlington pair: https://www.electronics-tutorials.ws/transistor/darlington-transistor.html <br>
-Info on common collector configuration: https://rb.gy/c1q3d
+> Info on darlington pair: https://www.electronics-tutorials.ws/transistor/darlington-transistor.html <br>
+> Info on common collector configuration: https://rb.gy/c1q3d
 
 The 330 Ohm resistor provides a DC current path for Q3 and raises the emitter voltage above ground. C3 blocks DC from flowing to the speaker and gives a low impedence path for AC signals to go to the speaker. 
 
