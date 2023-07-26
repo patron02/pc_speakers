@@ -23,7 +23,7 @@ Info on transistor biasing configurations: https://www.electronics-tutorials.ws/
 
 Q2 and Q3 are arranged as a darlington pair, performing as a single high beta transistor. R5, C3, and SP1 make the last stage an emitter follower configuration (also called common collector configuration). 
 
-Info on darlington pair: https://www.electronics-tutorials.ws/transistor/darlington-transistor.html
+Info on darlington pair: https://www.electronics-tutorials.ws/transistor/darlington-transistor.html <br>
 Info on common collector configuration: https://rb.gy/c1q3d
 
 The 330 Ohm resistor provides a DC current path for Q3 and raises the emitter voltage above ground. C3 blocks DC from flowing to the speaker and gives a low impedence path for AC signals to go to the speaker. 
