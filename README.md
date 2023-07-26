@@ -25,7 +25,7 @@ Q2 and Q3 are arranged as a Darlington pair, peroming as a single high beta tran
 
 Info on darlington pair: https://www.electronics-tutorials.ws/transistor/darlington-transistor.html
 
-Info on common collector configuration: https://circuitglobe.com/common-collector-connection-cc-configuration.html#:~:text=Definition%3A%20The%20configuration%20in%20which,from%20the%20collector%20and%20emitter.
+Info on common collector configuration: https://rb.gy/c1q3d
 
 The 330 Ohm resistor provides a DC current path for Q3 and raises the emitter voltage above ground. C3 blocks DC from flowing to the speaker and gives a low impedence path for AC signals to go to the speaker. 
 
