@@ -17,7 +17,7 @@ This configuration is arranged as a push pull amplifier. It may provide a litter
 
 Usually a push-pull audio amplifying circuit looks as pictured below, but the one above has a a third transistor in the first stage. The complement transistor is not used to drive a transformer but to discharge the dc decoupling capacitor to give full wave alternating current to the speaker. 
 
-<img height="300" alt="image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcircuitdigest.com%2Felectronic-circuits%2Fpush-pull-amplifier-circuit-diagram&psig=AOvVaw0bXBkHjm52NMo_8M7QWVjf&ust=1690561205473000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOid3LOlr4ADFQAAAAAdAAAAABAL">
+<img height="300" alt="image" src="https://circuitdigest.com/sites/default/files/circuitdiagram/Class-AB-Amplifier.png">
 
 To maximize the potential voltage of the output, the junction between the emitters of transistors 2 and 3 should be set at half of the supply  voltage. This setup should produce the proper voltage at transistor 1's base than causes it to be in active mode. 
 
