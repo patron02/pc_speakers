@@ -12,8 +12,23 @@ The impedence of my speaker will not matter much because it is in series with a 
 > Info on coupling capacitors: https://www.icrfq.net/coupling-capacitor/
 
 
+## How the First Circuit Works
+This configuration is arranged as a push pull amplifier. It may provide a litter higher power output and run more efficiently than the second circuit but power is limited by the fact that 2N3904 and 2N3906 transistors are small-signals transistors with very limited current carying capability. This could be fixed by using transistors with higher ratings. This circuit can deliver about 10x more power to the speaker, but it is a more complex circuit to build. 
 
-## How the coloured circuit above works:
+Usually a push-pull audio amplifying circuit looks as pictured below, but the one above has a a third transistor in the first stage. The complement transistor is not used to drive a transformer but to discharge the dc decoupling capacitor to give full wave alternating current to the speaker. 
+
+<img height="300" alt="image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcircuitdigest.com%2Felectronic-circuits%2Fpush-pull-amplifier-circuit-diagram&psig=AOvVaw0bXBkHjm52NMo_8M7QWVjf&ust=1690561205473000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOid3LOlr4ADFQAAAAAdAAAAABAL">
+
+To maximize the potential voltage of the output, the junction between the emitters of transistors 2 and 3 should be set at half of the supply  voltage. This setup should produce the proper voltage at transistor 1's base than causes it to be in active mode. 
+
+
+
+> Info on push pull amplifiers: https://tinyurl.com/mry72ubs
+> Info on push pull amplifiers: https://circuitdigest.com/electronic-circuits/push-pull-amplifier-circuit-diagram
+
+
+
+## How the second circuit works:
 
 Q1 provides an initial signal gain as a common emitter amplifier. R1, R2, R3, and R4 form a 4-resistor bias network to ensure Q1 is in the linear amplification region. C2 raises the AC gain of that stage by providing a low impedence path to ground for AC signals. 
 
@@ -35,14 +50,6 @@ The 330 Ohm resistor provides a DC current path for Q3 and raises the emitter vo
 
 ## AC Analysis:
 
-
-
-## Configuration with Diodes
-The configuration above with diodes has the output arranged as a push pull amplifier. It may provide a litter higher power output and run more efficiently than the coloured circuit. Power is limited by the fact that 2N3904 and 2N3906 transistors are small-signals transistors with very limited current carying capability. The coloured circuit could deliver at maz 10 mW to the speaker, while the push pull amplifier configuration could maybe get up to 100 mW.
-
-Calculations: 
-
-Info on push pull amplifiers: 
 
 
 ## Prototype 1
