@@ -47,7 +47,7 @@ Info on push pull amplifiers:
 
 ## Prototype 1
 First build had some audio but it was very quiet and mostly static. The capacitors were rated for a maximum of 10 V and the diodes were also different thn the circuit above so some analysis needs to be done on if that is what is causing some issues. I aso am only supplying the circuit with 2.4 V. I will add in a 12 V power supply and attempt to modify the components for maximum gain by doing some calculations on excel. 
-![gg_1_9500 0](https://github.com/patron02/pc_speakers/assets/69320369/e8218707-544b-44d3-a062-5c028ec41c6a)
+<img height="400" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/e8218707-544b-44d3-a062-5c028ec41c6a">
 
 
 ## EasyEDA Build and Analysis
