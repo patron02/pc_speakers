@@ -53,11 +53,6 @@ First build had some audio but it was very quiet and mostly static. The capacito
 ## EasyEDA Build and Analysis
 
 
-
-## Physical Circuit Design
-
-
-
 ## Casing Design
 3D model stl link: 
 CNC wood cuttin
