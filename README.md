@@ -54,6 +54,7 @@ The 330 Ohm resistor provides a DC current path for Q3 and raises the emitter vo
 
 ## Prototype 1
 First build had some audio but it was very quiet and mostly static. The capacitors were rated for a maximum of 10 V and the diodes were also different than the circuit above so some analysis needs to be done on if that is what is causing some issues. I also am only supplying the circuit with 2.4 V. I will add in a 12 V power supply and attempt to modify the components for maximum gain by doing some calculations on excel since currently the speaker is only receiving about 10 mW of power. 
+
 <img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/e8218707-544b-44d3-a062-5c028ec41c6a">
 
 
