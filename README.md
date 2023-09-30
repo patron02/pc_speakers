@@ -23,7 +23,7 @@ To maximize the potential voltage of the output, the junction between the emitte
 
 
 
-> Info on push pull amplifiers: https://tinyurl.com/mry72ubs
+> Info on push pull amplifiers: https://tinyurl.com/mry72ubs <br>
 > Info on push pull amplifiers: https://circuitdigest.com/electronic-circuits/push-pull-amplifier-circuit-diagram
 
 
