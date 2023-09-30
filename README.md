@@ -43,7 +43,7 @@ This circuit had audio coming out of the speaker but it was very quiet and mostl
 
 ##  Third Circuit
 
-
+The third circuit I built is a variation of the second circuit. ______. I had to switch to using BC327 and BC337 transistors because the 2N3904/2N3906 transistors cannot handle the currents used in this circuit. 
 
 ## Casing Design
 3D model stl link: 
