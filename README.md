@@ -39,8 +39,6 @@ To maximize the potential voltage of the output, the junction between the emitte
 This circuit had audio coming out of the speaker but it was a lot of static. The capacitors were rated for a maximum of 10 V and the diodes were also different than the circuit above so some analysis needs to be done on if that is what is causing some issues. I also was only supplying the circuit with 2.4 V which resulted in a 10 mW of power going to the speaker. I later used a 12 V power supply and attempted to modify the components for maximum gain by doing some calculations on excel since currently the speaker is only receiving about 10 mW of power and changed some of the resistor values using a calculation I had done on excel to get it at 100 mW.
 
 <img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/e8218707-544b-44d3-a062-5c028ec41c6a"> 
-![new](https://github.com/patron02/pc_speakers/assets/69320369/337165a1-061d-40c1-96f4-75853a0be935)
-
 
 ## Casing Design
 3D model stl link: 
