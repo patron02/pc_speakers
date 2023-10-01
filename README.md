@@ -37,7 +37,7 @@ To maximize the potential voltage of the output, the junction between the emitte
 > Info on push pull amplifiers: https://tinyurl.com/mry72ubs <br>
 > Info on push pull amplifiers: https://circuitdigest.com/electronic-circuits/push-pull-amplifier-circuit-diagram
 
-This circuit had audio coming out of the speaker but it was a lot of static. I was supplying the circuit with 3 [V] which provided a nice volume but the static could possibly be caused by fault wires/breadboard. The next step is to find out the source of the static and how I can remove it.
+This circuit had audio coming out of the speaker but it was a lot of static. I was supplying the circuit with 3 [V] which provided a nice volume but the static could possibly be caused by fault wires/breadboard. The next step is to find out the source of the static and how I can remove it. I want the circuit to fit in a small box which I will make for the speaker so I had to make it all fit onto one breadboard.
 
 <img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/928896f2-b29f-46df-ab11-0688e0d89906"> <img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/816449ee-3075-4307-9860-950453c184d2"> 
 
