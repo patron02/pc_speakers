@@ -6,7 +6,7 @@ The impedence of my speaker will not matter much because it is in series with a 
 
 > Info on coupling capacitors: https://www.icrfq.net/coupling-capacitor/
 
-## How Amplification Works
+## First Circuit
 <img height="300" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/a808d26c-09ab-4580-a93c-b49b6fdaea58"> <br>
 Q1 provides an initial signal gain as a common emitter amplifier. R1, R2, R3, and R4 form a 4-resistor bias network to ensure Q1 is in the linear amplification region. C2 raises the AC gain of that stage by providing a low impedence path to ground for AC signals. 
 
@@ -38,12 +38,7 @@ To maximize the potential voltage of the output, the junction between the emitte
 
 This circuit had audio coming out of the speaker but it was a lot of static. The capacitors were rated for a maximum of 10 V and the diodes were also different than the circuit above so some analysis needs to be done on if that is what is causing some issues. I also was only supplying the circuit with 2.4 V which resulted in a 10 mW of power going to the speaker. I later used a 12 V power supply and attempted to modify the components for maximum gain by doing some calculations on excel since currently the speaker is only receiving about 10 mW of power and changed some of the resistor values using a calculation I had done on excel to get it at 100 mW.
 
-<img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/e8218707-544b-44d3-a062-5c028ec41c6a">
-
-
-##  Third Circuit
-
-The third circuit I built is a variation of the second circuit. ______. I had to switch to using BC327 and BC337 transistors because the 2N3904/2N3906 transistors cannot handle the currents used in this circuit. 
+<img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/e8218707-544b-44d3-a062-5c028ec41c6a"> 
 
 ## Casing Design
 3D model stl link: 
