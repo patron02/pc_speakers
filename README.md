@@ -21,7 +21,8 @@ Q2 and Q3 are arranged as a darlington pair, performing as a single high beta tr
 The 330 Ohm resistor provides a DC current path for Q3 and raises the emitter voltage above ground. C3 blocks DC from flowing to the speaker and gives a low impedence path for AC signals to go to the speaker. Based on EasyEDA simulations I ran, this circuit would not provide enough power to my speaker so I decided to try a second design.
 
 ## Second Circuit 
-<img height="300" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/a8e7eec6-bb4c-415e-a268-96df13e557f5"> <br> 
+<img height="300" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/7590ae61-89c3-447a-99ba-5c8df126c627"> <br> 
+
 
 This configuration is arranged as a push pull amplifier. It may provide a litter higher power output and run more efficiently than the second circuit but power is limited by the fact that 2N3904 and 2N3906 transistors are small-signals transistors with very limited current carying capability. This could be fixed by using transistors with higher ratings. This circuit can deliver about 10x more power to the speaker, but it is a more complex circuit to build. 
 
