@@ -43,9 +43,10 @@ This circuit had audio coming out of the speaker but it was a lot of static. I w
 
 
 ## Reducing the Static
-Filter
+Filter WIP
 
 ## Casing Design
+WIP
 The initial design for the case had an open back: <br>
 <img height="400" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/c04a5a2e-64c9-48ed-9734-8ccbb336083f">
 
