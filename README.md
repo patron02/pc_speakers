@@ -45,6 +45,9 @@ This circuit had audio coming out of the speaker but it was a lot of static. I w
 ## Reducing the Static
 Filter WIP
 
+## Voltage Regulator 
+
+
 ## Casing Design
 WIP
 The initial design for the case had an open back: <br>
