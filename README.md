@@ -39,7 +39,15 @@ To maximize the potential voltage of the output, the junction between the emitte
 
 This circuit had audio coming out of the speaker but it was a lot of static. I was supplying the circuit with 3 [V] which provided a nice volume but the static could possibly be caused by faulty wires/breadboard. The next step is to find out the source of the static and how I can remove it. I want the circuit to fit in a small box which I will make for the speaker so I had to make it all fit onto one breadboard.
 
-<img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/928896f2-b29f-46df-ab11-0688e0d89906"> <img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/816449ee-3075-4307-9860-950453c184d2"> 
+<img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/928896f2-b29f-46df-ab11-0688e0d89906"> <img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/816449ee-3075-4307-9860-950453c184d2"> <br>
+
+## Calculations
+
+The voltage regulator I had available was a LM2596. I have to do some calculations on the circuit I have built to see what maximum input voltage I can use without damaging the transistors, capacitors, and diodes. <br> 
+
+> 1N4001 Datasheet: https://cdn-shop.adafruit.com/datasheets/1N4001-D.PDF <br>
+> LM2596 Datasheet: https://www.ti.com/lit/ds/symlink/lm2596.pdf <br>
+> 2N3904/2N3906 Datasheet: https://www.digikey.com/en/htmldatasheets/production/95776/0/0/1/2n3904-datasheet <br>
 
 
 ## Reducing the Static
