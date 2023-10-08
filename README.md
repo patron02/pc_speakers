@@ -37,9 +37,8 @@ To maximize the output the Q1 and Q3 should be set at haf the input voltage. Bas
 VR4 = 1.5V * R4/(R4 + R3 + R2) = 0.63 [V] <br> 
 
 The current coming in through the diodes needs to be enough to to give proper idle current. 
+
 Ic = (VCC - 2*Vdiodes)/2R1 = 0.9 [mA]
-
-
 
 > Info on push pull amplifiers: https://tinyurl.com/mry72ubs <br>
 > Info on push pull amplifiers: https://circuitdigest.com/electronic-circuits/push-pull-amplifier-circuit-diagram
