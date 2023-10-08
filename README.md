@@ -45,7 +45,7 @@ The voltage regulator I had available was a LM2596. I have to do some calculatio
 > LM2596 Datasheet: https://www.ti.com/lit/ds/symlink/lm2596.pdf <br>
 > 2N3904/2N3906 Datasheet: https://www.digikey.com/en/htmldatasheets/production/95776/0/0/1/2n3904-datasheet <br>
 
-Measured Values:
+Measured Values: <br>
 <img alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/a92225d1-c8fe-4cc7-9398-6889a81c4b2e"> <br>
 
 All the values were within the correct parameters when the LM2596 was set to output 3 [V]. This circuit had audio coming out of the speaker but it was a lot of static. I was supplying the circuit with 3 [V] which provided a nice volume but the static could possibly be caused by faulty wires/breadboard. The next step is to find out the source of the static and how I can remove it. I want the circuit to fit in a small box which I will make for the speaker so I had to make it all fit onto one breadboard. I will solder the circuit onto a protyping pcb board to see if the static is reduced, if it isnt I can develop some sort of audio filter. 
