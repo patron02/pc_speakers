@@ -59,7 +59,10 @@ All the values were within the correct parameters when the LM2596 was set to out
 <img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/928896f2-b29f-46df-ab11-0688e0d89906"> <img height="350" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/816449ee-3075-4307-9860-950453c184d2"> <br>
 
 ## Reducing the Static
-Filter WIP
+The static coming out of the speaker could be due to multiple things including noise from the power supply, EMI, and lack of impedance matching. I started with double checking that the impedance was matched. The speaker has a 3.4 [Ohm] impedance and the circuit has an 8.3 [Ohm] impedance so I had neglected to check that they were matched. 
+
+To try and resolve the impedance matching issue I added an external resistor in parallel with the speaker to increase the overall impedance. The formula for the additional resistance is:<br>
+Radd = sqrt(Ramp x Rspkr) - Rspkr
 
 
 ## Casing Design
