@@ -30,7 +30,7 @@ Usually a push-pull audio amplifying circuit looks as pictured below, but the on
 
 <img height="300" alt="image" src="https://circuitdigest.com/sites/default/files/circuitdiagram/Class-AB-Amplifier.png">
 
-To maximize the potential voltage of the output, the junction between the emitters of transistors 2 and 3 should be set at half of the supplyA  voltage. This setup should produce the proper voltage at transistor 1's base than causes it to be in active mode. 
+To maximize the potential voltage of the output, the junction between the emitters of transistors 2 and 3 should be set at half of the supply voltage. This setup should produce the proper voltage at transistor 1's base than causes it to be in active mode. 
 
 To maximize the output the Q1 and Q3 should be set at haf the input voltage. Based on some research I chose the input to be 3 [V], I later tested it below to make sure it was outputting the correct values. We need the voltage at Q2's base to 0.6 [V] so it can be in active moed, this means that the voltage across R4 will set the base voltage.
 
