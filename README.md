@@ -73,6 +73,7 @@ The new circuit on LTSpice: <br>
 I then changed R5 to be 1 [KOhm] because it stabilized the function more. Using LTSpice I noticed that there was some crossover distortion, it was very small but still noticeable. <br>
 <img height="250" src="https://github.com/patron02/pc_speakers/assets/69320369/50dcb967-2af4-42af-afdc-49316c1d6afb"> <img height="250" src="https://github.com/patron02/pc_speakers/assets/69320369/73f49079-b687-4be0-8132-205a1f4c9f5d">
 
+I tried to add resistors between the transistors so that the emitters wouldnt fight for the voltage at the junction but that reduced the amplification significantly so I chose to leave it for now. 
 
 
 
