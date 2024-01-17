@@ -62,7 +62,7 @@ All the values were within the correct parameters when the LM2596 was set to out
 The static coming out of the speaker could be due to multiple things including noise from the power supply, EMI, and lack of impedance matching. I started with double checking that the impedance was matched. The speaker has a 3.4 [Ohm] impedance and the circuit has an 8.3 [Ohm] impedance at 440 Hz (whic is the average frequency of muscial audio signals). I added A 4 [Ohm] resistor in series with the speaker to have it match up. This mattered because at 440 Hz the impedance of the capacitor is 1.64 [V] and the speakers is about 3.4 [V] (should be 4). This means that it only represents about 70% of the load to the output transistor. I also increased the input to 9 [V] so I could use an easily replaceable battery and added some resistance to the decoupling capacitor discharge transistors emitter to increase the bias. The signal was also clipping because I set my input too high, the average Vpp coming from my phone was 4 [V] which i measured with an oscilloscope. There was still some distortion and not that much amplification. 
 
 Before changes: <br>
-<img src="https://github.com/patron02/pc_speakers/assets/69320369/517f1bcd-80cb-4eb4-ae40-7804a7e14f5a"> <br>
+<img height="300" src="https://github.com/patron02/pc_speakers/assets/69320369/517f1bcd-80cb-4eb4-ae40-7804a7e14f5a"> <br>
 
 After changes: <br>
 <img src="https://github.com/patron02/pc_speakers/assets/69320369/93033e9f-a469-41ce-993c-e2ac20587653"> <br>
