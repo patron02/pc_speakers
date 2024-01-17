@@ -70,7 +70,8 @@ After changes: <br>
 The new circuit on LTSpice: <br>
 <img height="400" src="https://github.com/patron02/pc_speakers/assets/69320369/6e77b836-8333-4ad1-9b8e-11aee5a98e69"> <br>
 
-I then changed R5 to be 1 [KOhm] because it stabilized the function more.
+I then changed R5 to be 1 [KOhm] because it stabilized the function more. Using LTSpice I noticed that there was some crossover distortion, it was very small but still noticeable.
+
 
 
 
