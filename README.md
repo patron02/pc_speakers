@@ -65,7 +65,7 @@ Before changes: <br>
 <img height="300" src="https://github.com/patron02/pc_speakers/assets/69320369/517f1bcd-80cb-4eb4-ae40-7804a7e14f5a"> <br>
 
 After changes: <br>
-<img src="https://github.com/patron02/pc_speakers/assets/69320369/93033e9f-a469-41ce-993c-e2ac20587653"> <br>
+<img height="300" src="https://github.com/patron02/pc_speakers/assets/69320369/93033e9f-a469-41ce-993c-e2ac20587653"> <br>
 
 
 
