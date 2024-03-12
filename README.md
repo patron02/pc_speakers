@@ -79,11 +79,10 @@ I tried to add resistors between the transistors so that the emitters wouldnt fi
 > Info on crossover distortion: http://tinyurl.com/bdh88hz9
 
 The final circuit:
+<img height="300" src="https://github.com/patron02/pc_speakers/assets/69320369/da0b0b22-7236-45f5-91d9-faa9b73da3b4">
+
+Video: 
 https://youtu.be/_dIUI8IVlO8
-
-
-
-
 
 ## Casing Design
 WIP
