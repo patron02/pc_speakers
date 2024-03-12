@@ -85,9 +85,9 @@ Video: <br>
 https://youtu.be/_dIUI8IVlO8
 
 ## Casing Design
-WIP
-The initial design for the case had an open back: <br>
-<img height="400" alt="image" src="https://github.com/patron02/pc_speakers/assets/69320369/c04a5a2e-64c9-48ed-9734-8ccbb336083f">
+<img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/293553f8-9291-4113-93c0-e1e41be9a23e"> <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/d116a2c9-ee97-4e98-b6f6-350f43383b07"> 
+
+
 
 3D model stl link:
 
