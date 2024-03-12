@@ -85,10 +85,10 @@ Video: <br>
 https://youtu.be/_dIUI8IVlO8
 
 ## Casing Design
+Fusion 360 Model: <br>
 <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/293553f8-9291-4113-93c0-e1e41be9a23e"> <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/d116a2c9-ee97-4e98-b6f6-350f43383b07"> 
 
+3D Printed Case: <br> 
 
-
-3D model stl link:
-
+## Final Product
 
