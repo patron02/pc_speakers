@@ -74,7 +74,7 @@ Using LTSpice I noticed that there was some crossover distortion, it was very sm
 
 <img height="250" src="https://github.com/patron02/pc_speakers/assets/69320369/50dcb967-2af4-42af-afdc-49316c1d6afb"> <img height="250" src="https://github.com/patron02/pc_speakers/assets/69320369/73f49079-b687-4be0-8132-205a1f4c9f5d">
 
-I tried to add resistors between the transistors so that the emitters wouldnt fight for the voltage at the junction but that reduced the amplification significantly so I chose to leave it for now. The pushpull amplifier output will always be roughly be 0.7 [V] less than the input so the LTSpice is showing the correct signal output. There is still some small distortion on the bass notes so I will try adding a high pass filter.
+I tried to add resistors between the transistors so that the emitters wouldnt fight for the voltage at the junction but that reduced the amplification significantly so I chose to leave it for now. The pushpull amplifier output will always be roughly be 0.7 [V] less than the input so the LTSpice is showing the correct signal output. There is still some small distortion on the bass notes so I will try adding a high pass filter or potentiometers at the emitters of Q2 so that the BJT biasing can be slightly altered for different songs and not clip the signal.
 
 > Info on crossover distortion: http://tinyurl.com/bdh88hz9
 
