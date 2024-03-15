@@ -88,10 +88,8 @@ https://youtu.be/_dIUI8IVlO8
 Fusion 360 Model: <br>
 <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/293553f8-9291-4113-93c0-e1e41be9a23e"> <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/d116a2c9-ee97-4e98-b6f6-350f43383b07"> 
 
-3D Printed Case: <br> 
-
 ## Final Product
-<img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/3aedfd76-24ba-4f2b-bb3d-0608f177df08"><img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/b783bc04-3471-4cf0-995c-fc31b2381e8c"> <br>
+<img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/3aedfd76-24ba-4f2b-bb3d-0608f177df08"> <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/b783bc04-3471-4cf0-995c-fc31b2381e8c"> <br>
 
 Video: <br>
 https://youtu.be/L6ErmH1Rq8c
