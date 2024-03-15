@@ -91,4 +91,11 @@ Fusion 360 Model: <br>
 3D Printed Case: <br> 
 
 ## Final Product
+<img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/3aedfd76-24ba-4f2b-bb3d-0608f177df08"><img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/b783bc04-3471-4cf0-995c-fc31b2381e8c"> <br>
+
+Video: <br>
+https://youtu.be/L6ErmH1Rq8c
+
+
+
 
