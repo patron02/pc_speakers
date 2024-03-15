@@ -89,7 +89,7 @@ Fusion 360 Model: <br>
 <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/293553f8-9291-4113-93c0-e1e41be9a23e"> <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/d116a2c9-ee97-4e98-b6f6-350f43383b07"> 
 
 ## Final Product
-<img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/3aedfd76-24ba-4f2b-bb3d-0608f177df08"> <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/b783bc04-3471-4cf0-995c-fc31b2381e8c"> <br>
+<img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/b783bc04-3471-4cf0-995c-fc31b2381e8c"> <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/3b7c3905-e050-43f9-9b39-f44d62cc075e"> <img height="350" src="https://github.com/patron02/pc_speakers/assets/69320369/3aedfd76-24ba-4f2b-bb3d-0608f177df08"> <br>
 
 Video: <br>
 https://youtu.be/L6ErmH1Rq8c
